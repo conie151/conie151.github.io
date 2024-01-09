@@ -19,13 +19,6 @@ In this section, you will find notes on my favorite documentaries related to cyb
 
 As I progress in my cybersecurity journey, I actively engage in Microsoft lessons and work towards certifications. To enhance my understanding and contribute to the community, I re-study and rewrite my notes in a digital format. This not only solidifies my comprehension but also provides a resource for others on a similar learning path.
 
-## Website
-
-For a more interactive and user-friendly experience, you can visit my GitHub Pages-hosted website: [Your GitHub.io Website](https://conie151.github.io)
-
-The website contains a curated collection of my notes, blog posts, and additional resources. Feel free to explore and engage with the content.
-
-
 
 Happy coding and learning!
 
