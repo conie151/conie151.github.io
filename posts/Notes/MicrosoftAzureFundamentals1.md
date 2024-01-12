@@ -47,3 +47,4 @@ Your _service model_ will determine responsibility for:
 What are Cloud Models?:
 Cloud models define the _deployment type_ of cloud resources.
 There are three main cloud models:
+
