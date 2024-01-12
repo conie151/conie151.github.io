@@ -41,7 +41,7 @@ Your _service model_ will determine responsibility for:
 - Identity and Infrastructure
 - Applications
 - Network Controls
-- Operating Systems
+- Operating Systems  
   
-<br> <br>
-fsdfdf
+***
+a
