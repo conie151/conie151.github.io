@@ -31,10 +31,12 @@ _You_, (The consumer), Will _ALWAYS_ be responsible for:
 - The Information and data stored in the cloud
 - Devices that are allowed to connect to your cloud
 - The Accounts
+  
 The _Cloud_ provider is _ALWAYS_ responsible for:
 - The Physical Datacenter
 - The Physical network
 - The Physical hosts
+  
 Your _service model_ will determine responsibility for:
 - Identity and Infrastructure
 - Applications
