@@ -12,7 +12,7 @@ Learning Objectives:
 
 # Notes
 
-=What is Microsoft Azure?=: 
+==What is Microsoft Azure?==: 
 A cloud computing platform with services to help the user meet business goals, including web hosting in the cloud, the ability to run VC's (Virtual Computers), cloud-based services like remote storage, database hosting, centralized account management; and AI and Internet of Things (IoT) - focused services
 
 What is Cloud Computing?:
