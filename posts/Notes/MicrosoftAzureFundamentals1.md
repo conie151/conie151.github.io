@@ -44,4 +44,6 @@ Your _service model_ will determine responsibility for:
 - Operating Systems  
   
 ***
-a
+What are Cloud Models?:
+Cloud models define the _deployment type_ of cloud resources.
+There are three main cloud models:
