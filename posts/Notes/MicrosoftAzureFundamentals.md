@@ -23,3 +23,20 @@ The delivery of computing services over the internet
 
 Why is the cloud better compared to traditional Infrastructure?:
 Since cloud computing uses the internet to deliver their services, you (the user) can use the cloud to rapidly increase your IT Infrastructure, instead of having to wait for another physical datacenter to be built. Additionally, you only pay for what you use (what you need).
+
+What is the Shared Responsibilty model?:
+Through cloud computing, the traditional IT responsibilities (Such as maintaining infrastructure, software, physical space, servers, etc.) get shared between the cloud provider and the consumer.
+
+_You_, (The consumer), Will _ALWAYS_ be responsible for:
+- The Information and data stored in the cloud
+- Devices that are allowed to connect to your cloud
+- The Accounts
+The _Cloud_ provider is _ALWAYS_ responsible for:
+- The Physical Datacenter
+- The Physical network
+- The Physical hosts
+Your _service model_ will determine responsibility for:
+- Identity and Infrastructure
+- Applications
+- Network Controls
+- Operating Systems
