@@ -4,3 +4,4 @@ Cybersecurity is the ongoing effort to protect individuals, organizations and go
 _What do cybercrmiinals want from me?_
 Cybercriminals can use your sensitive personal information to identify and impersonate you, infringing on your privacy and potentially causing serious damage to your reputation.
 
+- Every time we collect or share personal data, we should consider our security.
