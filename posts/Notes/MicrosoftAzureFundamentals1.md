@@ -51,11 +51,10 @@ There are three main cloud models:
 ➤ **Private Cloud**: A Cloud (Delivering IT services over the internet) used by a _single_ entity. It provides much greater control, but comes with much greater cost & fewer benefits of a public cloud development. A private cloud can be hosted from your on-site data center, as well as in an off-site datacenter, potentially even by a 3rd party that has dedicated that datacenter to your company.
 
 ➤ **Public Cloud**: Build, controlled, & maintained by a 3rd-party cloud provider. _Anyone_ that wants to purchase cloud services can access and use resources. Benefits: No capital expenditures required to scale up).
-
 Features: 
 _- No capital Expenditures required to scale up_
 _- Applications can be quicky provisioned and De-provisioned_
 _- Organizations pay only for what they use_
-▶️_- Organizaions don't have complete control over resources and security_
+▶️ Organizations don't have complete control over resources and security
 
 ➤ **Hybrid Cloud**: Uses both public & private clouds in an inter-connected environment. Can be used to allow a private cloud to surge for increased, temporary demand _by deploying public cloud resources._ It can be used to provide an extra layer of security, for example, allowing users to choose which services to keep in public cloud and which to deploy in the private cloud infrastructure.
