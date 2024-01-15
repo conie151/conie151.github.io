@@ -65,3 +65,9 @@ _- Organizations pay only for what they use_
 ▶️ Organizations don't have complete control over resources and security
 
 ➤ **Hybrid Cloud**: Uses both public & private clouds in an inter-connected environment. Can be used to allow a private cloud to surge for increased, temporary demand _by deploying public cloud resources._ It can be used to provide an extra layer of security, for example, allowing users to choose which services to keep in public cloud and which to deploy in the private cloud infrastructure.
+<br>
+  Features:
+_- Provides the most flexibility_
+_- Organizations determine where to run their applications_
+_- Organizations control security, compliance, or legal requirements_
+<br>
