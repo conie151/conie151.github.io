@@ -7,3 +7,6 @@ _What is a Hub?_ A network device that connects all devices on a LAN. When a sys
 
 _What is a Switch?_
 A version of a Hub that understands where to send data Using MAC addresses as unique identifiers for recipients of incoming data. 
+
+_What is a Network Bridge?_
+A bridge connects separate networks to turn them into a larger network. Although the networks are connected, they can still work independently (In the OSI model, bridging works at layer 2, the Data Link layer.
