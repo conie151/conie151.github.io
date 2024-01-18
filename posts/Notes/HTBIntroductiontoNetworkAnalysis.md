@@ -15,3 +15,5 @@ A bridge connects separate networks to turn them into a larger network. Although
 
 _What is a Firewall?_
 A network device (can be hardware or software) providing fundamental network security, monitoring incoming and outcoming traffic and determining whether to allow or block it based on rules.
+
+_2. Ports and Services_
