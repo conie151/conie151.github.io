@@ -52,4 +52,11 @@ A Historical Perspective:
 ★ The Incident raised awareness about the vulnerability of connected systems and the potential for rapid, self-propagating malware. It also prompted the development + enhancement of security practices.
 
 >**_Another Significant case convicted Under the Computer Fraud & Abuse Act (CFAA)_**
->Kevin Mitnick (1999)
+> Kevin Mitnick (1999)
+> - In 1979, at 16, Kevin Broke into the Digital Equipment Corporations (DEC) computer network and copid the company's software → he was sentenced to 12 months of prison + 3 years of supervised release.
+> - Near the end of his supervised release, he hacked into Pacific Bell voicemail computers → he fled, becoming a fugitive for 2 1/2 years.
+> - Kevin Had allegedly gained unauthorized access to dozens of computer networks as a fugitive. He _intercepted and stole computer passwords, altered computer networks, and broke and read private emails.
+> - Mitnick was finnaly arrested on February 15, 1996
+> - Case Significance: The case became a landmark in the legal landscape of computer crimes, bringing attention to the need for legislation to address computer crimes. It also demonstrated that hacking and unauthorized access to computer networks could be treated as serious criminal offenses.
+
+
