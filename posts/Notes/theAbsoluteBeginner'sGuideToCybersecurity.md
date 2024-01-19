@@ -11,7 +11,4 @@ Intrusion: Imagine your computer system is a fortress - with high walls, a moat,
 _How can an "intruder" get past the gameras, guards, and walls of my castle?_:
 Virus: The _sneaky_ infiltrator → The _Virus_ is a _Spy_ who infiltrates the castle _disguised as a trusted messenger_
 
----
-***A Computer Virus***
-is a piece of code that attaches itself to a legitimate program/file. When you run the _infected_ program, the virus activates and spreads, like a disguised messenger spreading chaos within the castle.
----
+> **_A Computer Virus_** is a piece of code that attaches itself to a legitimate program/file. When you run the _infected_ program, the virus activates and spreads, like a disguised messenger spreading chaos within the castle.
