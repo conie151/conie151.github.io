@@ -13,4 +13,8 @@ Virus: The _sneaky_ infiltrator → The _Virus_ is a _Spy_ who infiltrates the c
 
 > **_A Computer Virus_** is a piece of code that attaches itself to a legitimate program/file. When you run the _infected_ program, the virus activates and spreads, like a disguised messenger spreading chaos within the castle.
 
-hj
+Trojan Horse: The _Deceptive_ Gift → The _Trojan Horse_ is a _Seemingly innocent gift_ left at the castle gates by an _unknown source._
+
+>**_A Trojan Horse_** is Malware disguised as a legitimate file or program. Like the legendary wooden horse to infitrate Troy, it tricks the user into installing it, giving unauthorized access to the attacker. The Deceptive package carries a hidden threat.
+
+
