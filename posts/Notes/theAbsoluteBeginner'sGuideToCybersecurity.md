@@ -17,4 +17,8 @@ Trojan Horse: The _Deceptive_ Gift → The _Trojan Horse_ is a _Seemingly innoce
 
 >**_A Trojan Horse_** is Malware disguised as a legitimate file or program. Like the legendary wooden horse to infitrate Troy, it tricks the user into installing it, giving unauthorized access to the attacker. The Deceptive package carries a hidden threat.
 
+Worm: The Secret _Tunnel_ Digger → A sneaky creature that _digs_ secret tunnels _connecting different parts of the castle._
+
+>**_A Computer Worm_** is a _standalone_ program that replicates itself to spread accross the network. It _doesn't need a host file_ to attach to - Just like secret tunnel systems don't rely on existing structures. Works can _rapidly spread through interconnected systems_, like tunnels weaving through the castle's different sections.
+
 
