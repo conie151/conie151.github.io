@@ -60,7 +60,8 @@ A Historical Perspective:
 > - Case Significance: The case became a landmark in the legal landscape of computer crimes, bringing attention to the need for legislation to address computer crimes. It also demonstrated that hacking and unauthorized access to computer networks could be treated as serious criminal offenses.
 > - In 2001, Kevin Mitnick wrote a book, **"The Art of Deception: Controlling the Human Element of Security"** (my favorite book to read of his:
 
->**_Key Takeaways:_**
+>**_Key Takeaway:_**
 > - Social Engineering: The art of Manipulating, Influencing, or decieving people in order to gain unauthorized access to information or systems (targeting the _human element._)
+> - Mitnick emphasized the ease of gaining access to private services both physically and online by tricking people into willingly or unknowingly give the nescessary information away. Tricks include exploiting the human curiousity for phishing or spamming, exploiting Authority and COmpliance to pose as someone with a high respect due, and taking advantage of company privacy blunders, such as picking up sensitive information unproperly discarded outside large company facilities.
 
 
