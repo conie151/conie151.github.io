@@ -50,3 +50,6 @@ A Historical Perspective:
 ★ In 1989, Morris became the _first person to be tried and convicted unter the Computer Fraud and Abuse Act (CFAA)_ in the United States.
 
 ★ The Incident raised awareness about the vulnerability of connected systems and the potential for rapid, self-propagating malware. It also prompted the development + enhancement of security practices.
+
+>**_Another Significant case convicted Under the Computer Fraud & Abuse Act (CFAA)_**
+>Kevin Mitnick (1999)
