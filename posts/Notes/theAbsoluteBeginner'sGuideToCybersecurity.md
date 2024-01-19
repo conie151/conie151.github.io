@@ -22,4 +22,4 @@ Worm: The Secret _Tunnel_ Digger → The _Worm_ is a _sneaky_ creature that _dig
 
 >**_A Computer Worm_** is a _standalone_ program that replicates itself to spread accross the network. It _doesn't need a host file_ to attach to - Just like secret tunnel systems don't rely on existing structures. Works can _rapidly spread through interconnected systems_, like tunnels weaving through the castle's different sections.
 
-
+**Cybersecurity encompasses a wide range of technologies, Processes, and practices designed to safegaurd our digital world.**
