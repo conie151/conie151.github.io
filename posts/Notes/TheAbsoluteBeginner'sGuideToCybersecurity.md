@@ -13,17 +13,31 @@ Intrusion: Imagine your computer system is a fortress - with high walls, a moat,
 
 _How can an "intruder" get past the gameras, guards, and walls of my castle?_:
 
+## The top 3 _Most_ common Intrusion Malware:
+
 Virus: The _sneaky_ infiltrator → The _Virus_ is a _Spy_ who infiltrates the castle _disguised as a trusted messenger_
 
 > **_A Computer Virus_** is a piece of code that attaches itself to a legitimate program/file. When you run the _infected_ program, the virus activates and spreads, like a disguised messenger spreading chaos within the castle.
+> The virus replicates itself and attaches to other executable files.  Most viruses require end-user interaction, can modify or delete data, and avoid detection. Most viruses are spread via emails, network sharing, optical disks or USB drives.
 
 Trojan Horse: The _Deceptive_ Gift → The _Trojan Horse_ is a _Seemingly innocent gift_ left at the castle gates by an _unknown source._
 
 >**_A Trojan Horse_** is Malware disguised as a legitimate file or program. Like the legendary wooden horse to infitrate Troy, it tricks the user into installing it, giving unauthorized access to the attacker. The Deceptive package carries a hidden threat.
+> Trojans are most often found in image files, audio files, or games. They explout your user priveleges to sneak malware onto a user's system.
 
 Worm: The Secret _Tunnel_ Digger → The _Worm_ is a _sneaky_ creature that _digs_ secret tunnels _connecting different parts of the castle._
 
 >**_A Computer Worm_** is a _standalone_ program that replicates itself to spread accross the network. It _doesn't need a host file_ to attach to - Just like secret tunnel systems don't rely on existing structures. Works can _rapidly spread through interconnected systems_, like tunnels weaving through the castle's different sections.
+> Worms do not require user participation after the initial infection, and they spread very quickly over the network. All Worms contain malicious code to cause damage to computer systems or networks.
+> ★ Worms are responsible for some of the most devastating attacks on the internet. For example, in 2001, the Code Red Worm infected 3000,000+ servers in 19 hours.
+
+## _Additional_ Types of Malware
+_What is Malware?_: Malware, or malicious software, is code that can be used to steal data, bypass access controls, or cause harm to compromise a system. **More types of malware are:**
+- **Spyware**: Monitors online activity, logging your typing, clicking, and data. It does this by _modifying_ the _security settings on your devices_, often buldling with a legitimate software or a Trojan Horse.
+- **Adware**: Automatically delivers ads to a user, mostly on a web browser. It commonly comes with spyware, and is often installed with some versions of (vulnerable) software.
+- **Scareware**: Scaring you through OS- style window warnings that tell you that your system is at risk. When the program is executed, you get infected with malware.
+- **Rootkit**: Malware that modifies the OS and creates a backdoor (or a means for the attacker to gain remote access to your computer system that is hard to detect). Most rootkits take advantage of software vulnerabilities to gain access ("privelege escalation") and modify system files. They can also modify system forensics and monitoring tools, making it hard to detect.
+- **Ransomeware**: Encryts your data so that you can't access it until you make a payment. Often spreats through phishing email attachments or through a software vulnerability.
 
 **Cybersecurity encompasses a wide range of technologies, Processes, and practices designed to safegaurd our digital world.**
 
