@@ -159,3 +159,7 @@ Companies who have had their data breached within the database could have:
 - stored the passwords of customers using a combination of salting and robust hashing algorithms
 - separated cloud-based resources from the public Internet into an isolated private network segment
 - granted employee access to personal data and internal systems _only_ via a secure VPN connection.
+
+<br>
+
+## _Cyber Attackers_
