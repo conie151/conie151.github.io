@@ -82,7 +82,9 @@ In Organizations, the two main types of (organizational) data are:
 
 _Traditional Data_ (Including transactional data such as sales and purchases, and basic operations; Intellectual Property, such as patents and trademarks; and Financial data such as income statements and balance sheets) and _Internet of Things (IoT) and Big Data_ (the large network of physical object such as sensors, software, and relevant equipment that collects and shares data).
 
->**_The McCumber Cube_**
+## The McCumber Cube
+
+>**_The Cube_**
 > The Cube is a framework created in 1991 by John McCumber to help organizations evaluate information security initiatives. The security model has 3 Dimensions:
 > 1. The foundational principles of protecting Information systems:
 >    - _Confidentiality_: Methods to ensure confidentiality like **data encryption,** **Identity proofing,** and **two factor authentication** prevent sensitive information from being disclosed in an unauthorized manner.
