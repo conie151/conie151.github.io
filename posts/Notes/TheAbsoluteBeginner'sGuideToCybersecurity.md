@@ -162,4 +162,15 @@ Companies who have had their data breached within the database could have:
 
 <br>
 
-## _Cyber Attackers_
+## _The Types of Cyber Attackers_
+
+1. **"Script Kiddies"** - **amateur**/**inexperienced** hackers using existing tools/instructions found on the internet in order to launch attacks (whether it be out of curiousity or to cause real harm)
+2. **"Hackers"** - Fall into three Categories:
+   - **White Hat** - break into networks/computer systems **with permission** in order to identify and resolve weaknesses in systems.
+   - **Gray Hat** - Break into networks **with or without permission**, usually only reponrting for financial gain (or other times, publishing the vulnerability on line so that others can explout it.
+   - **Black Hat** - Take advantage of vulnerabilities for personal, financial, or political gain
+3. **"Organized Hackers** - Organizations of **cybercriminals**, **hactivists**, **terrorists**, and **state-sponsored hackers**. They usually are highly sophisticated and organized, and may even _provide_ cybercrime as a _service_ to _other criminals_
+4. **Internal Threats** - Employees, staff, or partners either _intentionally_ or _unintentionally_:
+   - Mishandling confidential data, connecting infected USB media into an organization's computer system, and/or clicking on malicious links on the organization's network.
+5. **External Threats** - Amateur or skilled attackers outside the organizations:
+   - Exploiting vulnerablities in the network, gaining unauthorized access to computing devices, and/or Using social engineering to gain unauthorized access to organizational data.
