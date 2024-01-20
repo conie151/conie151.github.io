@@ -65,7 +65,7 @@ A Historical Perspective:
 
 >**_Key Takeaway:_**
 > - Social Engineering: The art of Manipulating, Influencing, or decieving people in order to gain unauthorized access to information or systems (targeting the _human element._)
-> - Mitnick emphasized the ease of gaining access to private services both physically and online by tricking people into willingly or unknowingly give the nescessary information away. Tricks include exploiting the human curiousity for phishing or spamming, exploiting Authority and COmpliance to pose as someone with a high respect due, and taking advantage of company privacy blunders, such as picking up sensitive information unproperly discarded outside large company facilities.
+> - Mitnick emphasized the ease of gaining access to private services both physically and online by tricking people into willingly or unknowingly give the nescessary information away. Tricks include exploiting the human curiousity for phishing or spamming, exploiting Authority and Compliance to pose as someone with a high respect due, and taking advantage of company privacy blunders, such as picking up sensitive information unproperly discarded outside large company facilities.
 
 <br>
 
@@ -89,4 +89,6 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 >    - _Integrity_: One method to ensure integrity is a **Hash Function/Checksum,** which prevents information from being accidently or intentionally modified.
 >    - _Availability_: **Maintaining equipment,** **performing harware repairs,** **keeping operating systems and software up to date**, and **creating backups** can ensure authorized users the ability to access systems and data when needed.
 > 2. The Protection of Data in each of its possible states:
-> 3. The Security measures used to protect data:
+>    - _Processing_: data being **used** to **perform an operation** (ex. Data In Process - data updating a database record)
+>    - _Storage_: Data stored on a permanent storage device (ex. Data at rest - stored in a hard drive, solid-state drive, or USB Drive ([Recall Mitnick])
+> 4. The Security measures used to protect data:
