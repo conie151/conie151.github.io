@@ -102,8 +102,8 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 
 >**_Some notable (recent) data breaches:_**
 > 1. **Equifax (2017):**
-   - Impact: Personal information of approximately 147 million consumers, including names, Social Security numbers, birth dates, addresses, and in some cases, driver's license numbers.
-   - Cause: Exploitation of a vulnerability in the company's website.
+>   - Impact: Personal information of approximately 147 million consumers, including names, Social Security numbers, birth dates, addresses, and in some cases, driver's license numbers.
+>   - Cause: Exploitation of a vulnerability in the company's website.
 
 2. **Yahoo (2013-2014, disclosed in 2016):**
    - Impact: Over 3 billion user accounts compromised, including email addresses, hashed passwords, and personal information.
