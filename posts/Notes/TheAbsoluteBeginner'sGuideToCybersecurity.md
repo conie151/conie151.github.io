@@ -101,7 +101,7 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 > ★ Phishing emails sent to customers will often have crappy grammar, strange URL's, strange email addresses, and bad graphics.
 
 >**_Some notable (recent) data breaches:_**
-> 1. **Equifax (2017):**
+> 1. **Equifax - Consumer Credit Card Reporting Agency (2017):**
 >   - Impact: Personal information of approximately 147 million consumers, including names, Social Security numbers, birth dates, addresses, and in some cases, driver's license numbers.
 >   - Cause: Exploitation of a vulnerability in the company's website.
 >
@@ -132,7 +132,9 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 > 8. **Uber (2016, disclosed in 2017):**
 >   - Impact: Data of 57 million users and drivers exposed, including names, email addresses, and driver's license numbers.
 >  - Cause: Hackers gained access to Uber's cloud storage.
->
+> 8. **Persirai botnet (2017):**
+>    - Impact: 1000+ models of IP cameras were injected with a command to install malware on them, used to carry out DDoS attacks.
+>    - Cause: Hackers used the vulnerability of this common unprotected IoT device to their favor
 > These incidents highlight the significance of cybersecurity and the need for companies to implement robust measures to protect user data. Keep in mind that the cybersecurity landscape is dynamic, and new breaches may have occurred since my last update.
 
 
