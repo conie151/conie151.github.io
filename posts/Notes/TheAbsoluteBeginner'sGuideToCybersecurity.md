@@ -41,6 +41,18 @@ _What is Malware?_: Malware, or malicious software, is code that can be used to 
 
 **Cybersecurity encompasses a wide range of technologies, Processes, and practices designed to safegaurd our digital world.**
 
+# When a system becomes Infected with Malware
+_What are some common indicators that a system has become infected?_
+- an increase in central processing unit (CPU) usage, which slows down your device
+- your computer freezing or crashing often
+- a decrease in your web browsing speed
+- unexplainable problems with your network connections
+- modified or deleted files
+- the presence of unknown files, programs or desktop icons
+- unknown processes running
+- programs turning off or reconfiguring themselves
+- emails being sent without your knowledge or consent.
+
 ---
 ## The Threat Landscape in Cybersecurity
 _The field of cybersecurity has witnessed significant changes in the nature of threats over the years. Understanding this evolution helps us develop effective strategies to protect agains current and future cyberthreats._
@@ -221,15 +233,4 @@ Companies who have had their data breached within the database could have:
 >   B. Man-in-the-Mobile (_MitMO_) attack: A Variation of MitM, where the infected _mobile device_ is instructed to send user-sensitive inforamtion to the attackers. Malware packages such as "ZeuS" have MitMO capabilities. This type of attack allows attackers to capture 2-step verification SMS messages that are sent to users.
 > - **SEO - Poisoning** - Attackers take advantage of popular search terms and use Search Engine Optimization (SEO) to push malicious sites higher in the ranks of search results, increasing traffic to malicious sites that host malware or attempt social engineering.
 
-# When a system becomes Infected with Malware
-_What are some common indicators that a system has become infected?_
-- an increase in central processing unit (CPU) usage, which slows down your device
-- your computer freezing or crashing often
-- a decrease in your web browsing speed
-- unexplainable problems with your network connections
-- modified or deleted files
-- the presence of unknown files, programs or desktop icons
-- unknown processes running
-- programs turning off or reconfiguring themselves
-- emails being sent without your knowledge or consent.
 
