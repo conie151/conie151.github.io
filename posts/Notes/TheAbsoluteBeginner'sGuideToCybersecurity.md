@@ -138,9 +138,14 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 > These incidents highlight the significance of cybersecurity and the need for companies to implement robust measures to protect user data. Keep in mind that the cybersecurity landscape is dynamic, and new breaches may have occurred since my last update.
 
 If a Company/Organization has experienced a Security Breach, they can experience: 
+
 **Reputational Damage**: Customers must be notified and may seek compensation and/or switch provider, and employees may leave. 
+
 **Online Vandalism**: Hackers may post false information on your website, such as editing your phone number, which shows unprofessionalism and loses your credibility.
+
 **Theft**: Sensetive personal data may be stolen, and made public for identity theft, ransom, or simply stealing your customers' money.
+
 **Loss Of Revenue**: A Hacker taking down a website or infrastructure can impede growth and expansion, damnding further investment from the organizatino and possible fines or penalties for not protecting personal data.
+
 **Damaged Intellectual Property**: Hackers may get their hands on Confidential documents, trade secrets, and/or intellectual property, devastating the organization's competitiveness.
 
