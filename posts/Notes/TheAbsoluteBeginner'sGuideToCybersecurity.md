@@ -191,14 +191,16 @@ Companies who have had their data breached within the database could have:
 
 <br>
 
-## Another topic to consider: Cyberwarfare
-_Cyberwarfare_ is the use of technology to penetrate and attack another nation's computer systems and networks in an effort to cause damage or disrupt services, such as shutting down a power grid, or to obtain snesitive information. 
+>**_ ## Another topic to consider: Cyberwarfare_**
+>_Cyberwarfare_ is the use of technology to penetrate and attack another nation's computer systems and networks in an effort to cause damage or disrupt services, such as shutting down a power grid, or to obtain snesitive information. 
+>
+> _Why Do other nations want other's informations?:_ 
+>
+> - To gather information and/or defense secrets (whether it be for **blackmail** or to gain **military advantage**
+> - To disrupt Infrastructure/ Services (causing chaos and closing down systems)
+>  ★ Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
 
-_Why Do other nations want other's informations?:_ 
 
-- To gather information and/or defense secrets (whether it be for **blackmail** or to gain **military advantage**
-- To disrupt Infrastructure/ Services (causing chaos and closing down systems)
-  ★ Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
 
 # When a system becomes Infected with Malware
 _What are some common indicators that a system has become infected?_
