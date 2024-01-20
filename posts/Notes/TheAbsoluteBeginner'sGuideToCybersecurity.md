@@ -149,3 +149,4 @@ If a Company/Organization has experienced a Security Breach, they can experience
 
 **Damaged Intellectual Property**: Hackers may get their hands on Confidential documents, trade secrets, and/or intellectual property, devastating the organization's competitiveness.
 
+⭐ As a **Cybersecurity Specialist**, your job is _not_ to protect organizations from **every** cyberattack - because **this is not possible**. **Your Job** is to **_respond quickly_** and **_Minimize the attack's Impact_**.
