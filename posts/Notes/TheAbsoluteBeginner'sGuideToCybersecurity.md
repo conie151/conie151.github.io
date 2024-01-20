@@ -200,7 +200,21 @@ Companies who have had their data breached within the database could have:
 > - To disrupt Infrastructure/ Services (causing chaos and closing down systems)
 >  ★ Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
 
+>**_Methods of Infiltration_**
+> - Social Engineering
+> - **Denial of Service (DoS)** - Simple to carry out, and results in the interruption of the network service to the users, devices, or applications. There are 2 types:
+>     A. _An overwhelming quantity of traffice sent to a network, host or application._ This causes a slowdown or crash.
+>     B. _Maliciously formatted Packets_. These disable a reciever's computer or application from handling data from a requested source. This cuases a slowdown or crash.
+>   **DoS** attacks are considered a _Major_ risk because they can easily interrupt communication and cause significant time and money loss.
+>   
+> - **Distributed Denial of Service (DDoS)** - Similar to a DoS attack, but origniating from multiple, coordinated sources. How does an attacker do this?
+>    A. The attacker builds a network (botnet) of infected hosts called "Zombies," which are controlled by a handler system.
+>    B. The zombie computers constantly scan & infect more hosts, creating more zombies.
+>    C. The attacker will instruct the handler system to make the botnet of zombies to carry out a DDoS attack, sending an overloading amount of requests to a system. This causes it to ultimately crash.
 
+>**What is a Botnet?** - A "Bot" computer is infected by visint an unsafe website or opening an infected document. A botnet is a _group_ of Bots connected through the internet and controlled by an attacker/malicious group, usually through a command and control server.
+>  - _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
+>  - _Cybercriminals often rant out botnets to 3rd parties._
 
 # When a system becomes Infected with Malware
 _What are some common indicators that a system has become infected?_
@@ -213,3 +227,4 @@ _What are some common indicators that a system has become infected?_
 - unknown processes running
 - programs turning off or reconfiguring themselves
 - emails being sent without your knowledge or consent.
+
