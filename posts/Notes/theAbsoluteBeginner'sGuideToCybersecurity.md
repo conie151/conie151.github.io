@@ -75,3 +75,9 @@ _What do cybercrmiinals want from me?_
 Cybercriminals can use your sensitive personal information to identify and impersonate you, infringing on your privacy and potentially causing serious damage to your reputation.
 
 - Every time we collect or share personal data, we should consider our security.
+
+★ In Organizations, the two main types of (organizational) data are:
+
+_Traditional Data_ (Including transactional data such as sales and purchases, and basic operations; Intellectual Property, such as patents and trademarks; and Financial data such as income statements and balance sheets) and _Internet of Things (IoT) and Big Data_ (the large network of physical object such as sensors, software, and relevant equipment that collects and shares data).
+
+
