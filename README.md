@@ -7,5 +7,5 @@ The primary purpose of this repository is to provide a centralized location for 
 ## Table of Contents
 Go ahead and travel to your desired content:
 - [Documentaries](https://github.com/conie151/conie151.github.io/tree/474e0e16b157b63458a45198a8542cf3ca3a50e3/posts/Documentaries)
-- [Notes](https://github.com/conie151/conie151.github.io/tree/c2f5159bb89496fcac06f91886fef4c1f2e603e8/posts/Notes)
+- [Notes](https://github.com/conie151/conie151.github.io/blob/f9cd57ab51a8c92899b80292978f8cbcedf99815/posts/Notes/Contents.md)
 
