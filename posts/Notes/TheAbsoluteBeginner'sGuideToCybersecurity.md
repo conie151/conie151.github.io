@@ -213,8 +213,8 @@ Companies who have had their data breached within the database could have:
 >    C. The attacker will instruct the handler system to make the botnet of zombies to carry out a DDoS attack, sending an overloading amount of requests to a system. This causes it to ultimately crash.
 
 (>**What is a Botnet?** - A "Bot" computer is infected by visint an unsafe website or opening an infected document. A botnet is a _group_ of Bots connected through the internet and controlled by an attacker/malicious group, usually through a command and control server.
->  - _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
->  - _Cybercriminals often rant out botnets to 3rd parties._)
+- _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
+- _Cybercriminals often rant out botnets to 3rd parties._ )
 
 # When a system becomes Infected with Malware
 _What are some common indicators that a system has become infected?_
