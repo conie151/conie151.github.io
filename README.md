@@ -9,14 +9,3 @@ Go ahead and travel to your desired content:
 - [Documentaries](https://github.com/conie151/conie151.github.io/tree/474e0e16b157b63458a45198a8542cf3ca3a50e3/posts/Documentaries)
 - [Notes](https://github.com/conie151/conie151.github.io/tree/c2f5159bb89496fcac06f91886fef4c1f2e603e8/posts/Notes)
 
-## Documentaries
-
-In this section, you will find notes on my favorite documentaries related to cybersecurity, upcoming technologies, and cryptocurrency. I believe that visual media can be a powerful tool for learning, and I'm excited to share my insights from these documentaries.
-
-## Notes
-
-As I progress in my cybersecurity journey, I actively engage in Microsoft lessons and work towards certifications. To enhance my understanding and contribute to the community, I re-study and rewrite my notes in a digital format. This not only solidifies my comprehension but also provides a resource for others on a similar learning path.
-
-
-Happy coding and learning!
-
