@@ -174,3 +174,4 @@ Companies who have had their data breached within the database could have:
    - Mishandling confidential data, connecting infected USB media into an organization's computer system, and/or clicking on malicious links on the organization's network.
 5. **External Threats** - Amateur or skilled attackers outside the organizations:
    - Exploiting vulnerablities in the network, gaining unauthorized access to computing devices, and/or Using social engineering to gain unauthorized access to organizational data.
+
