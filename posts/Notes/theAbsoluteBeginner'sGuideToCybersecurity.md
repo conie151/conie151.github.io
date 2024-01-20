@@ -88,5 +88,5 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 >    - _Confidentiality_: Methods to ensure confidentiality like **data encryption,** **Identity proofing,** and **two factor authentication** prevent sensitive information from being disclosed in an unauthorized manner.
 >    - _Integrity_: One method to ensure integrity is a **Hash Function/Checksum,** which prevents information from being accidently or intentionally modified.
 >    - _Availability_: **Maintaining equipment,** **performing harware repairs,** **keeping operating systems and software up to date**, and **creating backups** can ensure authorized users the ability to access systems and data when needed.
-> 2. The Portection of Data in each of its possible states:
+> 2. The Protection of Data in each of its possible states:
 > 3. The Security measures used to protect data:
