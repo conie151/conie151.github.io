@@ -1,6 +1,6 @@
 # 1. Foundational Concepts:
-➤ Introduction to cybersecurity  
- https://github.com/conie151/conie151.github.io/blob/0e20703019dcd5e405e4696ac8ddf3eaa5a68239/posts/Notes/theAbsoluteBeginner'sGuideToCybersecurity.md 
+➤ [Introduction to cybersecurity - The Absolute Beginner's Guide to Cybersecurity](https://github.com/conie151/conie151.github.io/blob/0e20703019dcd5e405e4696ac8ddf3eaa5a68239/posts/Notes/theAbsoluteBeginner'sGuideToCybersecurity.md )
+
 ➤ Computer Operating Systems
   Objectives:
   - Learn How the Windows Operating System Works
