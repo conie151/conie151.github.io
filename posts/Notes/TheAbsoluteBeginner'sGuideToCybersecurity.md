@@ -95,3 +95,6 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 >    - _Storage_: Data **stored** on a **permanent storage device** (_Data At Rest_ - stored in a hard drive, solid-state drive, or USB Drive ([Recall Mitnick in "Dumpster Diving"])
 >    - _Transmission_: Data **traveling between Information systems** (_Data In Transit_)
 > 3. The Security measures used to protect data:
+>    - _Awareness, training, and education_: Organizations ensure that **users are knowledgeable** about **potential security threats** and actions they can take to protect information systems.
+>    - _Technology_: **Software** and **Hardware**- based solutions built to protect data systems (Such as **Firewalls**).
+>    - _Policy and Procedure_: Administrative control such as **incident response** and **best practice guidelines**.
