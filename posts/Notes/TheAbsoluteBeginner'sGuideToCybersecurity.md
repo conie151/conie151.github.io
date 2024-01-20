@@ -104,35 +104,35 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 > 1. **Equifax (2017):**
 >   - Impact: Personal information of approximately 147 million consumers, including names, Social Security numbers, birth dates, addresses, and in some cases, driver's license numbers.
 >   - Cause: Exploitation of a vulnerability in the company's website.
-
-2. **Yahoo (2013-2014, disclosed in 2016):**
-   - Impact: Over 3 billion user accounts compromised, including email addresses, hashed passwords, and personal information.
-   - Cause: State-sponsored hackers were involved in the cyberattack.
-
-3. **Marriott International (2018):**
-   - Impact: Personal details of around 500 million guests exposed, including names, addresses, passport numbers, and payment card information.
-   - Cause: Unauthorized access to the Starwood guest reservation database.
-
-4. **Capital One (2019):**
-   - Impact: Data of around 100 million customers exposed, including names, addresses, credit scores, and social security numbers.
-   - Cause: A former employee exploited a vulnerability in the bank's system.
-
-5. **Facebook-Cambridge Analytica (2018):**
-   - Impact: Improper access to personal data of up to 87 million Facebook users.
-   - Cause: An app developer collected and shared user data for political profiling without proper consent.
-
-6. **Target (2013):**
-   - Impact: Payment card data and personal information of about 110 million customers compromised.
-   - Cause: Malware introduced through a third-party vendor's credentials.
-
-7. **Sony PlayStation Network (2011):**
-   - Impact: Personal information and credit card details of approximately 77 million users exposed.
-   - Cause: A cyberattack on Sony's online gaming network.
-
-8. **Uber (2016, disclosed in 2017):**
-   - Impact: Data of 57 million users and drivers exposed, including names, email addresses, and driver's license numbers.
-   - Cause: Hackers gained access to Uber's cloud storage.
-
+>
+> 2. **Yahoo (2013-2014, disclosed in 2016):**
+>   - Impact: Over 3 billion user accounts compromised, including email addresses, hashed passwords, and personal information.
+>   - Cause: State-sponsored hackers were involved in the cyberattack.
+>
+> 3. **Marriott International (2018):**
+>   - Impact: Personal details of around 500 million guests exposed, including names, addresses, passport numbers, and payment card information.
+>   - Cause: Unauthorized access to the Starwood guest reservation database.
+>
+> 4. **Capital One (2019):**
+>   - Impact: Data of around 100 million customers exposed, including names, addresses, credit scores, and social security numbers.
+>   - Cause: A former employee exploited a vulnerability in the bank's system.
+>
+> 5. **Facebook-Cambridge Analytica (2018):**
+>   - Impact: Improper access to personal data of up to 87 million Facebook users.
+>   - Cause: An app developer collected and shared user data for political profiling without proper consent.
+>
+> 6. **Target (2013):**
+>   - Impact: Payment card data and personal information of about 110 million customers compromised.
+>   - Cause: Malware introduced through a third-party vendor's credentials.
+>
+> 7. **Sony PlayStation Network (2011):**
+>   - Impact: Personal information and credit card details of approximately 77 million users exposed.
+>   - Cause: A cyberattack on Sony's online gaming network.
+>
+> 8. **Uber (2016, disclosed in 2017):**
+>   - Impact: Data of 57 million users and drivers exposed, including names, email addresses, and driver's license numbers.
+>  - Cause: Hackers gained access to Uber's cloud storage.
+>
 > These incidents highlight the significance of cybersecurity and the need for companies to implement robust measures to protect user data. Keep in mind that the cybersecurity landscape is dynamic, and new breaches may have occurred since my last update.
 
 
