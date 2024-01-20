@@ -215,6 +215,10 @@ Companies who have had their data breached within the database could have:
 (>**What is a Botnet?** - A "Bot" computer is infected by visint an unsafe website or opening an infected document. A botnet is a _group_ of Bots connected through the internet and controlled by an attacker/malicious group, usually through a command and control server.
 - _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
 - _Cybercriminals often rant out botnets to 3rd parties._ )
+>c
+>c
+>
+>
 
 # When a system becomes Infected with Malware
 _What are some common indicators that a system has become infected?_
