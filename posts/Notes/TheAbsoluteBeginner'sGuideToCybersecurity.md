@@ -151,3 +151,10 @@ If a Company/Organization has experienced a Security Breach, they can experience
 
 ⭐ As a **Cybersecurity Specialist**, your job is _not_ to protect organizations from **every** cyberattack - because **this is not possible**. **Your Job** is to **_respond quickly_** and **_Minimize the attack's Impact_**.
 <br>
+Companies who have had their data breached within the database could have:
+- invested in cybersecurity training for all staff so that they are aware of and able to spot a cyber attack
+- enforced two factor authentication for employees accessing files and applications that contain sensitive data
+- maintained log files and ongoing monitoring to identify anomalous behavior that might indicate a data breach
+- stored the passwords of customers using a combination of salting and robust hashing algorithms
+- separated cloud-based resources from the public Internet into an isolated private network segment
+- granted employee access to personal data and internal systems _only_ via a secure VPN connection.
