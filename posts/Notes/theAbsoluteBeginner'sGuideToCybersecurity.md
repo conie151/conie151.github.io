@@ -68,7 +68,9 @@ A Historical Perspective:
 > - Mitnick emphasized the ease of gaining access to private services both physically and online by tricking people into willingly or unknowingly give the nescessary information away. Tricks include exploiting the human curiousity for phishing or spamming, exploiting Authority and COmpliance to pose as someone with a high respect due, and taking advantage of company privacy blunders, such as picking up sensitive information unproperly discarded outside large company facilities.
 
 <br>
-## From CISCO Introduction to Cybersecurity Course
+
+### From CISCO Introduction to Cybersecurity Course
+
 _What do cybercrmiinals want from me?_
 Cybercriminals can use your sensitive personal information to identify and impersonate you, infringing on your privacy and potentially causing serious damage to your reputation.
 
