@@ -89,6 +89,7 @@ _Traditional Data_ (Including transactional data such as sales and purchases, an
 >    - _Integrity_: One method to ensure integrity is a **Hash Function/Checksum,** which prevents information from being accidently or intentionally modified.
 >    - _Availability_: **Maintaining equipment,** **performing harware repairs,** **keeping operating systems and software up to date**, and **creating backups** can ensure authorized users the ability to access systems and data when needed.
 > 2. The Protection of Data in each of its possible states:
->    - _Processing_: data being **used** to **perform an operation** (ex. Data In Process - data updating a database record)
->    - _Storage_: Data stored on a permanent storage device (ex. Data at rest - stored in a hard drive, solid-state drive, or USB Drive ([Recall Mitnick])
-> 4. The Security measures used to protect data:
+>    - _Processing_: data being **used** to **perform an operation** (_Data In Process_ - data updating a database record)
+>    - _Storage_: Data **stored** on a **permanent storage device** (_Data At Rest_ - stored in a hard drive, solid-state drive, or USB Drive ([Recall Mitnick in "Dumpster Diving"])
+>    - _Transmission_: Data **traveling between Information systems** (_Data In Transit_)
+> 3. The Security measures used to protect data:
