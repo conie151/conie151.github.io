@@ -199,3 +199,15 @@ _Why Do other nations want other's informations?:_
 - To gather information and/or defense secrets (whether it be for **blackmail** or to gain **military advantage**
 - To disrupt Infrastructure/ Services (causing chaos and closing down systems)
   ★ Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
+
+# When a system becomes Infected with Malware
+_What are some common indicators that a system has become infected?_
+- an increase in central processing unit (CPU) usage, which slows down your device
+- your computer freezing or crashing often
+- a decrease in your web browsing speed
+- unexplainable problems with your network connections
+- modified or deleted files
+- the presence of unknown files, programs or desktop icons
+- unknown processes running
+- programs turning off or reconfiguring themselves
+- emails being sent without your knowledge or consent.
