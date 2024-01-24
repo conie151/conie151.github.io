@@ -217,7 +217,7 @@ Companies who have had their data breached within the database could have instea
 > - **Social Engineering**
 > - **Denial of Service (DoS)** - Simple to carry out, and results in the interruption of the network service to the users, devices, or applications. There are 2 types:
 >     A. _An overwhelming quantity of traffice sent to a network, host or application._ This causes a slowdown or crash.
->     B. _Maliciously formatted Packets_. These disable a reciever's computer or application from handling data from a requested source. This cuases a slowdown or crash.
+>     B. _Maliciously formatted Packets_. These disable a reciever's computer or application from handling data from a requested source. This causes a slowdown or crash.
 >   **DoS** attacks are considered a _Major_ risk because they can easily interrupt communication and cause significant time and money loss.
 >   
 > - **Distributed Denial of Service (DDoS)** - Similar to a DoS attack, but origniating from multiple, coordinated sources. How does an attacker do this?
