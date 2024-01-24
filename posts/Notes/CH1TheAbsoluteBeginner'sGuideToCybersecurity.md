@@ -27,7 +27,7 @@ Trojan Horse: The _Deceptive_ Gift → The _Trojan Horse_ is a _Seemingly innoce
 
 Worm: The Secret _Tunnel_ Digger → The _Worm_ is a _sneaky_ creature that _digs_ secret tunnels _connecting different parts of the castle._
 
->**_A Computer Worm_** is a _standalone_ program that replicates itself to spread accross the network. It _doesn't need a host file_ to attach to - Just like secret tunnel systems don't rely on existing structures. Works can _rapidly spread through interconnected systems_, like tunnels weaving through the castle's different sections.
+>**_A Computer Worm_** is a _standalone_ program that replicates itself to spread accross the network. It _doesn't need a host file_ to attach to - Just like secret tunnel systems don't rely on existing structures. Worms can _rapidly spread through interconnected systems_, like tunnels weaving through the castle's different sections.
 > Worms do not require user participation after the initial infection, and they spread very quickly over the network. All Worms contain malicious code to cause damage to computer systems or networks.
 > ★ Worms are responsible for some of the most devastating attacks on the internet. For example, in 2001, the Code Red Worm infected 3000,000+ servers in 19 hours.
 
