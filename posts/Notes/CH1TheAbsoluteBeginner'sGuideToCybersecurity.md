@@ -66,7 +66,7 @@ A Historical Perspective:
   
   Significance:
   
-  _↳Exploited vulnerabilities in Unix-Based systems, primarily "Sendmail" (an older "email,") "Finger (a sort of online yellow pages with public personal information), and weak passwork mechanisms._
+  _↳Exploited vulnerabilities in Unix-Based systems, primarily "Sendmail" (an older "email"), "Finger" (a sort of online yellow pages with public personal information), and weak passwork mechanisms._
   
   _↳Implemented a self-replicating mechanism, allowing it to propagate accross connected systems._
   
