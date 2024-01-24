@@ -226,8 +226,8 @@ Companies who have had their data breached within the database could have instea
 >    C. The attacker will instruct the handler system to make the botnet of zombies to carry out a DDoS attack, sending an overloading amount of requests to a system. This causes it to ultimately crash.
 
 >**What is a Botnet?** - A "Bot" computer is infected by visiting an unsafe website or opening an infected document. A botnet is a _group_ of Bots connected through the internet and controlled by an attacker/malicious group, usually through a command and control server.
-- _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
-- _Cybercriminals often rant out botnets to 3rd parties._ )
+>- _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
+>- _Cybercriminals often rent out botnets to 3rd parties._ )
 >
 > - **On - Path Attacks / Man In the Middle / Man In the Mobile Attack** - Intercepts or modifies communications between two devices, either to collect information or impersonalte one of the devices. 
 >    A. Man-in-the-Middle (_MitM_) attack: A cybercriminal takes control or intercepts a device without the user's knowledge. The attacker than then intercept and capture user information before it is sent to it's intended destination. This attack is often used to steal financial infromation. Many types of malware exists that posses MitM atack capablities.
