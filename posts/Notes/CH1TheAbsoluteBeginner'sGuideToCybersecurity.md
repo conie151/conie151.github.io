@@ -237,12 +237,17 @@ Companies who have had their data breached within the database could have instea
 >   
 > - **SEO - Poisoning** - Attackers take advantage of popular search terms and use Search Engine Optimization (SEO) to push malicious sites higher in the ranks of search results, increasing traffic to malicious sites that host malware or attempt social engineering.
 > 
-> **Password Attacks** - Password Attacks allow cybercriminals to impersonate you and gain access to your valuable information. The following are ways in which attackers can get access to your password:
->     _Password Spraying_: An Attacker "Sprays" a few commonly used passwords accross a large number of accounts on a system. This allows the attacker to avoid frequent account lockouts, remaining undetected.
->     _Dictionary attack_: The Hacker tries every word in a dictionary or a commonly used words as a password list to attempt breaking into an account
->     _Brute-force Attack_: An attacker uses all possible combinations of letters, numbers, and symbols until the attacker gets it right.
->     _Rainbow attacks_: A faster brute-force attack which skips the process of having to calculate each hash in real-time. _Passwords in a computer systems are stored as hashed values (numerical values that uniquely identify data)._ Using a rainbow table (a dictionary of pre-computed hashes and the passwords from which they were calculated), a rainbow attack compares the hash of a password with those stored in the table to match and identify the correct one.
->     _Traffic Interception_: Intercepted communications allow bots/a hacker to read your passwords in plain text and unencrypted.
+> - **Password Attacks** - Password Attacks allow cybercriminals to impersonate you and gain access to your valuable information. The following are ways in which attackers can get access to your password:
+>
+>    _Password Spraying_: An Attacker "Sprays" a few commonly used passwords accross a large number of accounts on a system. This allows the attacker to avoid frequent account lockouts, remaining undetected.
+>
+>    _Dictionary attack_: The Hacker tries every word in a dictionary or a commonly used words as a password list to attempt breaking into an account
+>
+>    _Brute-force Attack_: An attacker uses all possible combinations of letters, numbers, and symbols until the attacker gets it right.
+>
+>    _Rainbow attacks_: A faster brute-force attack which skips the process of having to calculate each hash in real-time. _Passwords in a computer systems are stored as hashed values (numerical values that uniquely identify data)._ Using a rainbow table (a dictionary of pre-computed hashes and the passwords from which they were calculated), a rainbow attack compares the hash of a password with those stored in the table to match and identify the correct one.
+>
+>    _Traffic Interception_: Intercepted communications allow bots/a hacker to read your passwords in plain text and unencrypted.
 >
 > **Advanced Persistent Threats (APTs)** - a multi-phase, long-term stealthy operation carried out by well-funded and organized groups carried out against organizations or nations for business or political reasons. The main purpose of APTs is to deploy customized malware on one or more of the target's systems and remain there, undetected.
 
