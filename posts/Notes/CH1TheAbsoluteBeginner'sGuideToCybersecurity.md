@@ -229,7 +229,7 @@ Companies who have had their data breached within the database could have instea
 >- _Bots can distribute malware, launch DDoS attacks, send spam emails, or execute brute-force password attacks._
 >- _Cybercriminals often rent out botnets to 3rd parties._ )
 
-> - **On - Path Attacks / Man In the Middle / Man In the Mobile Attack** - Intercepts or modifies communications between two devices, either to collect information or impersonalte one of the devices. 
+> - **On - Path Attacks / Man In the Middle / Man In the Mobile Attack** - Intercepts or modifies communications between two devices, either to collect information or impersonate one of the devices. 
 >    A. Man-in-the-Middle (_MitM_) attack: A cybercriminal takes control or intercepts a device without the user's knowledge. The attacker than then intercept and capture user information before it is sent to it's intended destination. This attack is often used to steal financial infromation. Many types of malware exists that posses MitM atack capablities.
 >   B. Man-in-the-Mobile (_MitMO_) attack: A Variation of MitM, where the infected _mobile device_ is instructed to send user-sensitive inforamtion to the attackers. Malware packages such as "ZeuS" have MitMO capabilities. This type of attack allows attackers to capture 2-step verification SMS messages that are sent to users.
 > - **SEO - Poisoning** - Attackers take advantage of popular search terms and use Search Engine Optimization (SEO) to push malicious sites higher in the ranks of search results, increasing traffic to malicious sites that host malware or attempt social engineering.
