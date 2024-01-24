@@ -82,16 +82,17 @@ A Historical Perspective:
 
 >**_Another Significant case convicted Under the Computer Fraud & Abuse Act (CFAA)_**
 > Kevin Mitnick (1999)
-> - In 1979, at 16, Kevin Broke into the Digital Equipment Corporations (DEC) computer network and copid the company's software → he was sentenced to 12 months of prison + 3 years of supervised release.
+> - In 1979, at 16, Kevin Broke into the Digital Equipment Corporations (DEC) computer network and copied the company's software → he was sentenced to 12 months of prison + 3 years of supervised release.
 > - Near the end of his supervised release, he hacked into Pacific Bell voicemail computers → he fled, becoming a fugitive for 2 1/2 years.
-> - Kevin Had allegedly gained unauthorized access to dozens of computer networks as a fugitive. He _intercepted and stole computer passwords, altered computer networks, and broke and read private emails.
-> - Mitnick was finnaly arrested on February 15, 1996
+> - Kevin Had allegedly gained unauthorized access to dozens of computer networks as a fugitive. He _intercepted and stole computer passwords, altered computer networks, and broke into and read private emails.
+> - Mitnick was finally arrested on February 15, 1996
 > - Case Significance: The case became a landmark in the legal landscape of computer crimes, bringing attention to the need for legislation to address computer crimes. It also demonstrated that hacking and unauthorized access to computer networks could be treated as serious criminal offenses.
-> - In 2001, Kevin Mitnick wrote a book, **"The Art of Deception: Controlling the Human Element of Security"** (my favorite book to read of his:
+> - 
+> - In 2001, Kevin Mitnick wrote a book, **"The Art of Deception: Controlling the Human Element of Security"** (my favorite book to read of his):
 
 >**_Key Takeaway:_**
 > - Social Engineering: The art of Manipulating, Influencing, or decieving people in order to gain unauthorized access to information or systems (targeting the _human element._)
-> - Mitnick emphasized the ease of gaining access to private services both physically and online by tricking people into willingly or unknowingly give the nescessary information away. Tricks include exploiting the human curiousity for phishing or spamming, exploiting Authority and Compliance to pose as someone with a high respect due, and taking advantage of company privacy blunders, such as picking up sensitive information unproperly discarded outside large company facilities.
+> - Mitnick emphasized the ease of gaining access to private services both physically and online by tricking people into willingly or unknowingly give the nescessary information away. Tricks include exploiting the human curiousity through phishing or spamming, exploiting Authority and Compliance to pose as someone you should give information to, and taking advantage of company privacy blunders, such as picking up sensitive information unproperly discarded outside large company facilities ("Dumpster Diving").
 
 <br>
 
