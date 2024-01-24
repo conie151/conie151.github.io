@@ -252,3 +252,5 @@ Companies who have had their data breached within the database could have instea
 > - **Advanced Persistent Threats (APTs)** - a multi-phase, long-term stealthy operation carried out by well-funded and organized groups carried out against organizations or nations for business or political reasons. The main purpose of APTs is to deploy customized malware on one or more of the target's systems and remain there, undetected.
 
 <br>
+
+c
