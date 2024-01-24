@@ -37,7 +37,7 @@ Let's Review. _What is Malware?_: Malware, or malicious software, is code that c
 - **Adware**: Automatically delivers ads to a user, mostly on a web browser. It commonly comes with spyware, and is often installed with some versions of (vulnerable) software.
 - **Scareware**: Scaring you through OS- style window warnings that tell you that your system is at risk. When the program is executed, you get infected with malware.
 - **Rootkit**: Malware that modifies the OS and creates a backdoor (or a means for the attacker to gain remote access to your computer system that is hard to detect). Most rootkits take advantage of software vulnerabilities to gain access ("privelege escalation") and modify system files. They can also modify system forensics and monitoring tools, making it hard to detect.
-- **Ransomeware**: Encryts your data so that you can't access it until you make a payment. Often spreats through phishing email attachments or through a software vulnerability.
+- **Ransomeware**: Encrypts your data so that you can't access it until you make a payment. Often spreads through phishing email attachments or through a software vulnerability.
 
 **Cybersecurity encompasses a wide range of technologies, Processes, and practices designed to safegaurd our digital world.**
 
