@@ -23,7 +23,7 @@ Virus: The _sneaky_ infiltrator → The _Virus_ is a _Spy_ who infiltrates the c
 Trojan Horse: The _Deceptive_ Gift → The _Trojan Horse_ is a _Seemingly innocent gift_ left at the castle gates by an _unknown source._
 
 >**_A Trojan Horse_** is Malware disguised as a legitimate file or program. Like the legendary wooden horse to infitrate Troy, it tricks the user into installing it, giving unauthorized access to the attacker. The Deceptive package carries a hidden threat.
-> Trojans are most often found in image files, audio files, or games. They explout your user priveleges to sneak malware onto a user's system.
+> Trojans are most often found in image files, audio files, or games. They exploit your user priveleges to sneak malware onto a user's system.
 
 Worm: The Secret _Tunnel_ Digger → The _Worm_ is a _sneaky_ creature that _digs_ secret tunnels _connecting different parts of the castle._
 
