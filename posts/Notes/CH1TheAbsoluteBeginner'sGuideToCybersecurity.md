@@ -213,7 +213,7 @@ Companies who have had their data breached within the database could have instea
 > - To disrupt Infrastructure/ Services (causing chaos and closing down systems)
 >  ★ Check out the Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
 
->**_Methods of Infiltration_**
+>**_Methods of Infiltration/ How A company's online assets are crashed_**
 > - **Social Engineering**
 > - **Denial of Service (DoS)** - Simple to carry out, and results in the interruption of the network service to the users, devices, or applications. There are 2 types:
 >     A. _An overwhelming quantity of traffice sent to a network, host or application._ This causes a slowdown or crash.
