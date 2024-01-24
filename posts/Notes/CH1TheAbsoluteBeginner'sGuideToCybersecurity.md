@@ -211,7 +211,7 @@ Companies who have had their data breached within the database could have instea
 >
 > - To gather information and/or defense secrets (whether it be for **blackmail** or to gain **military advantage**
 > - To disrupt Infrastructure/ Services (causing chaos and closing down systems)
->  ★ Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
+>  ★ Check out the Stutnex Virus: Distributed prmarily via USB, Using 0-day exploits, being a sophisticated program, and targeting important infrastructure. [Stutnex virus Documentary]()
 
 >**_Methods of Infiltration_**
 > - **Social Engineering**
