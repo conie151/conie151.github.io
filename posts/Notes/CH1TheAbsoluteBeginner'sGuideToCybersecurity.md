@@ -11,7 +11,7 @@ Cybersecurity is the ongoing effort to protect individuals, organizations and go
 ¹ _What Malicious attacks are we referring to?:_
 Intrusion: Imagine your computer system is a fortress - with high walls, a moat, and a secure gate. Inside the Fortress, there's valuable treasure (sensitive data, personal information, and more). An "Intrusion" is like an unwanted visitor attempting to breach the fortress walls and gain access to your treasure. 
 
-_How can an "intruder" get past the gameras, guards, and walls of my castle?_:
+_How can an "intruder" get past the cameras, guards, and walls of my castle?_:
 
 ## The top 3 _Most_ common Intrusion Malware:
 
