@@ -32,7 +32,7 @@ Worm: The Secret _Tunnel_ Digger → The _Worm_ is a _sneaky_ creature that _dig
 > ★ Worms are responsible for some of the most devastating attacks on the internet. For example, in 2001, the Code Red Worm infected 3000,000+ servers in 19 hours.
 
 ## _Additional_ Types of Malware
-_What is Malware?_: Malware, or malicious software, is code that can be used to steal data, bypass access controls, or cause harm to compromise a system. **More types of malware are:**
+Let's Review. _What is Malware?_: Malware, or malicious software, is code that can be used to steal data, bypass access controls, or cause harm to compromise a system. **More types of malware are:**
 - **Spyware**: Monitors online activity, logging your typing, clicking, and data. It does this by _modifying_ the _security settings on your devices_, often buldling with a legitimate software or a Trojan Horse.
 - **Adware**: Automatically delivers ads to a user, mostly on a web browser. It commonly comes with spyware, and is often installed with some versions of (vulnerable) software.
 - **Scareware**: Scaring you through OS- style window warnings that tell you that your system is at risk. When the program is executed, you get infected with malware.
