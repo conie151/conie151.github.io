@@ -3,7 +3,7 @@
   1.1 Understanding Cybersecurity
   
 _What is Cybersecurity?_:
-Cybersecurity is the practice of _protecting systems, networks, and digital assets from malicious attacks¹, unauthorized access, and data breaches_. 
+Cybersecurity is the practice of _protecting systems, networks, and digital assets from malicious attacks¹, unauthorized access, and data breaches_.
 
 (_CISCO Introduction to Cybersecurity - What Is Cybersecurity?_
 Cybersecurity is the ongoing effort to protect individuals, organizations and governments from digital attacks by protecting networked systems and data from unauthorized use or harm.)
