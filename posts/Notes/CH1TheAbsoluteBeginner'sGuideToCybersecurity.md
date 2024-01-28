@@ -59,27 +59,27 @@ _What are some common indicators that a system has become infected?_
 _The field of cybersecurity has witnessed significant changes in the nature of threats over the years. Understanding this evolution helps us develop effective strategies to protect against current and future cyberthreats._
 
 A Historical Perspective:
-1. A Background on Viruses and Worms (1980's - 1990's):
-- Early viruses were primarily transmitted via infected floppy disks, which were commonly used for software distribution.
-  
-**Morris Worm: A Pioneering Incident (1988)**:
-  The Morris worm, created by Robert Tappan Morris, was unleashed on the internet on November 2, 1988, intended to gauge the size of the internet.
-  
-  Significance:
-  
-  _↳Exploited vulnerabilities in Unix-Based systems, primarily "Sendmail" (an older "email"), "Finger" (a sort of online yellow pages with public personal information), and weak passwork mechanisms._
-  
-  _↳Implemented a self-replicating mechanism, allowing it to propagate accross connected systems._
-  
-★ The Worm spread _faster_ than anticipated, causing system shutdowns and, in some cases, complete unavailability (a total of ~6,000 systems.)
-
-★ Morris' experiment highlighted the unpredictability of malware behaviour and the potential for unintended consequences. 
-
-★ The Incident underscored the need for ethical handling of security research and responsible disclosure of vulnerabilities.
-
-★ In 1989, Morris became the _first person to be tried and convicted unter the Computer Fraud and Abuse Act (CFAA)_ in the United States.
-
-★ The Incident raised awareness about the vulnerability of connected systems and the potential for rapid, self-propagating malware. It also prompted the development + enhancement of security practices.
+> 1. A Background on Viruses and Worms (1980's - 1990's):
+> - Early viruses were primarily transmitted via infected floppy disks, which were commonly used for software distribution.
+>  
+> **Morris Worm: A Pioneering Incident (1988)**:
+>  The Morris worm, created by Robert Tappan Morris, was unleashed on the internet on November 2, 1988, intended to gauge the size of the internet.
+>  
+>  Significance:
+>  
+>  _↳Exploited vulnerabilities in Unix-Based systems, primarily "Sendmail" (an older "email"), "Finger" (a sort of online yellow pages with public personal information), and weak passwork mechanisms._
+>  
+>  _↳Implemented a self-replicating mechanism, allowing it to propagate accross connected systems._
+>  
+> ★ The Worm spread _faster_ than anticipated, causing system shutdowns and, in some cases, complete unavailability (a > total of ~6,000 systems.)
+>
+> ★ Morris' experiment highlighted the unpredictability of malware behaviour and the potential for unintended consequences. 
+>
+> ★ The Incident underscored the need for ethical handling of security research and responsible disclosure of vulnerabilities.
+>
+> ★ In 1989, Morris became the _first person to be tried and convicted unter the Computer Fraud and Abuse Act (CFAA)_ in the United States.
+>
+> ★ The Incident raised awareness about the vulnerability of connected systems and the potential for rapid, self-propagating malware. It also prompted the development + enhancement of security practices.
 
 >**_Another Significant case convicted Under the Computer Fraud & Abuse Act (CFAA)_**
 > Kevin Mitnick (1999)
@@ -88,7 +88,6 @@ A Historical Perspective:
 > - Kevin Had allegedly gained unauthorized access to dozens of computer networks as a fugitive. He _intercepted and stole computer passwords, altered computer networks, and broke into and read private emails.
 > - Mitnick was finally arrested on February 15, 1996
 > - Case Significance: The case became a landmark in the legal landscape of computer crimes, bringing attention to the need for legislation to address computer crimes. It also demonstrated that hacking and unauthorized access to computer networks could be treated as serious criminal offenses.
-> - 
 > - In 2001, Kevin Mitnick wrote a book, **"The Art of Deception: Controlling the Human Element of Security"** (my favorite book to read of his):
 
 >**_Key Takeaway:_**
