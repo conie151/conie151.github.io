@@ -1,6 +1,6 @@
 # Citizen Four: A Developer's Reflection
 
-In my ongoing journey as a developer and a cybersecurity student, I recently delved into the intriguing 2014 documentary, "Citizen Four." Directed by Laura Poitras, this eye-opening documentary offers a unique and thought-provoking look into the revelations brought forth by Edward Snowden about mass surveillance conducted by intelligence agencies. Join me as I explore the implications of these revelations and reflect on the intersection of technology, privacy, and our digital society.
+In my journey as a developer and a cybersecurity student, I recently delved into the intriguing 2014 documentary, "Citizen Four." Directed by Laura Poitras, this eye-opening documentary offers a unique and thought-provoking look into the revelations brought forth by Edward Snowden about mass surveillance conducted by intelligence agencies. Join me as I explore the implications of these revelations and reflect on the intersection of technology, privacy, and our digital society.
 
 ## The Whistleblower's Odyssey
 
