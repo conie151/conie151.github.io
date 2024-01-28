@@ -56,7 +56,7 @@ _What are some common indicators that a system has become infected?_
 
 ---
 ## The Threat Landscape in Cybersecurity
-_The field of cybersecurity has witnessed significant changes in the nature of threats over the years. Understanding this evolution helps us develop effective strategies to protect agains current and future cyberthreats._
+_The field of cybersecurity has witnessed significant changes in the nature of threats over the years. Understanding this evolution helps us develop effective strategies to protect against current and future cyberthreats._
 
 A Historical Perspective:
 1. A Background on Viruses and Worms (1980's - 1990's):
