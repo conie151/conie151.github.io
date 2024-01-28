@@ -1,5 +1,5 @@
 # 1. Foundational Concepts:
-➤ [Introduction to cybersecurity - The Absolute Beginner's Guide to Cybersecurity](https://github.com/conie151/conie151.github.io/blob/1285d236cca57335598a9979e40e6fab0ca15217/posts/Notes/TheAbsoluteBeginner'sGuideToCybersecurity.md)
+➤ [Introduction to cybersecurity - The Absolute Beginner's Guide to Cybersecurity](https://github.com/conie151/conie151.github.io/blob/320f5c8ed5f02c9202d8b0c136aa5662d9cf3f83/posts/Notes/CH1TheAbsoluteBeginner'sGuideToCybersecurity.md)
 
 ➤ Computer Operating Systems
   Objectives:
